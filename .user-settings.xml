@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JustDevelopSettings>
+  <CodesigningIdentitySettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <MobileProjectCodesigningIdentities xmlns:d2p1="http://schemas.datacontract.org/2004/07/Telerik.BlackDragon.Common.Data">
+      <d2p1:Project>
+        <d2p1:Identifier>zx-app\zx</d2p1:Identifier>
+        <d2p1:CodesigningIdentities>
+          <d2p1:Identity>
+            <d2p1:Platform>iOS</d2p1:Platform>
+            <d2p1:Alias>caijingpeng.haowu</d2p1:Alias>
+          </d2p1:Identity>
+        </d2p1:CodesigningIdentities>
+      </d2p1:Project>
+    </MobileProjectCodesigningIdentities>
+  </CodesigningIdentitySettings>
+  <MobileProjectProvisionSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <MobileProjectProvisionNames xmlns:d2p1="http://schemas.datacontract.org/2004/07/Telerik.BlackDragon.Common.Data">
+      <d2p1:Project>
+        <d2p1:Identifier>zx-app\zx</d2p1:Identifier>
+        <d2p1:MobileProvision>17f8777b-00dc-4143-8728-66af0628476f</d2p1:MobileProvision>
+      </d2p1:Project>
+    </MobileProjectProvisionNames>
+  </MobileProjectProvisionSettings>
+  <SolutionSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Telerik.BlackDragon.Client.Modules.Settings">
+    <BuildConfiguration>Debug</BuildConfiguration>
+    <StartUpProject>zx</StartUpProject>
+  </SolutionSettings>
+</JustDevelopSettings>
